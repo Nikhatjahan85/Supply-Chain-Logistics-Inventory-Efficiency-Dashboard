@@ -35,7 +35,7 @@ This dashboard provides stakeholders with a centralized view of supply chain per
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](Dashboard_Screenshot.png)
+![Dashboard Screenshot](Dashboard_.Screenshot.png)
 
 
 
