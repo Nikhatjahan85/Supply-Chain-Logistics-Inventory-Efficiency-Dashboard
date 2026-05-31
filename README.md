@@ -31,6 +31,14 @@ This dashboard provides stakeholders with a centralized view of supply chain per
 
 ---
 
+
+
+## 📷 Dashboard Preview
+
+![Dashboard Screenshot](Dashboard_Screenshot.png)
+
+
+
 ## 📊 Key Performance Indicators (KPIs)
 
 | KPI | Value |
@@ -158,16 +166,6 @@ Supply-Chain-Logistics-Dashboard
 │
 └── README.md
 ```
-
----
-
-## 📷 Dashboard Preview
-
-Add your dashboard screenshot below:
-
-
-![Dashboard Preview](Dashboard Images/Dashboard_Screenshot.png)
-
 
 ---
 
